@@ -1,7 +1,9 @@
 # Oh My Minecraft Server Docs
 
 
-### [English](english/english.md)
+### [English](en_us/main.md)
+
+### [简体中文](zh_cn/main.md)
 
 
 
