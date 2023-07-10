@@ -10,7 +10,8 @@
 **Jetbrains OSS Support [Here](URL=https://jb.gg/OpenSourceSupport)**  
 ![JetBrains Black Box Logo logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.png)  
 
-
-
-
-
+<p/>
+<p/>
+<p/>
+<p/>
+Copyright © 2000-2023 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o.  
